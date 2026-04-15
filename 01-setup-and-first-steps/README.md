@@ -396,8 +396,6 @@ That's it for getting started! As you become comfortable, you can explore additi
 | `/mcp` | Manage MCP server configuration |
 | `/skills` | Manage skills for enhanced capabilities |
 
-> 💡 **`/env` tip**: Use `/env` whenever you want to confirm that Copilot has picked up your custom agents, skills, or MCP servers. It's a great first step if something isn't working as expected.
-
 > 💡 Agents are covered in [Chapter 04](../04-agents-custom-instructions/README.md), skills are covered in [Chapter 05](../05-skills/README.md), and MCP servers are covered in [Chapter 06](../06-mcp-servers/README.md).
 
 ### Models and Subagents
